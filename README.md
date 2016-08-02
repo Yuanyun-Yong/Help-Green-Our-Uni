@@ -13,4 +13,5 @@ Environment:
 Gameplay:
 - Questions will be based on initiatives University of Auckland has started
 - Statistics/facts about waste, energy usage etc.
+ - An add-on/expansion might be to cover University of Auckland
 */
