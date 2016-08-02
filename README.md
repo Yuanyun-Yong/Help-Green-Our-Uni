@@ -4,6 +4,7 @@
 Game description/ basic format:
 - 2D
 - Unreal engine
+ - Note that the Unreal Engine uses C++
 - Points for answering questions correctly
 
 Environment:
@@ -11,5 +12,5 @@ Environment:
 
 Gameplay:
 - Questions will be based on initiatives University of Auckland has started
-- Statistics/ facts about waste, energy usage etc.
+- Statistics/facts about waste, energy usage etc.
 */
