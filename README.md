@@ -17,5 +17,6 @@ Gameplay:
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
 
-
+Storyline:
+- You're an environmental warrior looking to prevent wastage of resources and supplies
 */
