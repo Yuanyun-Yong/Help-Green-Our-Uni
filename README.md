@@ -14,4 +14,8 @@ Gameplay:
 - Questions will be based on initiatives University of Auckland has started
 - Statistics/facts about waste, energy usage etc.
  - An add-on/expansion might be to cover University of Auckland
+
+Aim: To allow players to learn about environmental issues in a fun and engaging way.
+
+
 */
