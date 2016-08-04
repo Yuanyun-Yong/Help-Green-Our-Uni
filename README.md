@@ -5,7 +5,7 @@ Game description/ basic format:
 - 2D
 - Unreal engine
  - Note that the Unreal Engine uses C++
-- Points for answering questions correctly -> Maybe, maybe not
+- Points for answering "questions" correctly
 
 Environment:
 - University of Auckland (City Campus)
@@ -27,4 +27,6 @@ Storyline:
 - Point System:
  - Every right throw will add a point
 
+- Meant to be a short game, 2 minutes tops
+- Arrow keys as the control, using arrow keys to indicate which pile to throw the trash in 
 */
