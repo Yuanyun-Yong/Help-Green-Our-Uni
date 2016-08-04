@@ -21,5 +21,8 @@ Storyline:
 - The player's character is an environmental warrior looking to prevent wastage of resources and supplies (???)
 - There'll be different situations, with different methods of solving them
 - Situations:
+ - Throwing recyclable plastic/materials into the general waste bin (which goes into landfill)
+ - 
+- Solutions:
  - 
 */
