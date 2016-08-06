@@ -44,6 +44,7 @@ Storyline:
 - Each time a player plays, there will be overall statistics showing how much trash has been sorted, to show how much trash can be recycled as well as how everyone can help contribute by throwing things in their respective categories
  - Statistics: 
   - How much more trash to go
+   - Note that the total amount of trash is the total amount of trash (general waste) the university creates every year
   - How many people have sorted the trash
   - How much money (and time) has been spent on sorting the trash
   - 
