@@ -40,5 +40,6 @@ Storyline:
 /*
 Storyline:
 - Player's character in a landfill where the proportional amount of trash University of Auckland produces arrives (As well as how much is being wasted, i.e. paper being thrown into general waste etc.)
-
+- Player then has to sort out trash to ensure that they are not wasted
+- Each time a player plays, there will be overall statistics showing how much trash has been sorted, to show how much trash can be recycled as well as how everyone can help contribute by throwing things in their respective categories
 */
