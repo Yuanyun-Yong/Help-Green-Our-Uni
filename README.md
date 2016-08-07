@@ -48,8 +48,9 @@ Storyline:
    - Note that the total amount of trash is the total amount of trash (general waste) the university creates every year
   - How many people have sorted the trash
   - How much money (and time) has been spent on sorting the trash so far (Maybe, maybe not)
-  - Highest score so far
   - Current score of the user
   - Timer
 - Probably combine the two ideas together???
+- End of the game:
+ - Show the user's final score, and the current highest score
 */
