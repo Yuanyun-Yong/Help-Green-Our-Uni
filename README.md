@@ -3,9 +3,10 @@
 /*
 Game description/ basic format:
 - 2D
-- Unreal engine
- - Note that the Unreal Engine uses C++
 - Unity
+ - Based on the Spaceshooter game
+ - Links:
+  - https://unity3d.com/learn/tutorials/projects/space-shooter/introduction?playlist=17147
 - Points for answering "questions" correctly
 
 Environment:
