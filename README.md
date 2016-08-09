@@ -7,7 +7,8 @@ Game description/ basic format:
  - C# (For scripting) 
  - Based on the Survival Shooter game tutorial
  - Links:
-  - 
+  - https://unity3d.com/learn/tutorials/projects/survival-shooter/environment?playlist=17144
+  - Rest of the links on the actual page 
 - Points for answering "questions" correctly
 
 Environment:
