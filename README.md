@@ -48,5 +48,6 @@ Storyline:
 Another Storyline:
 - Factsheet of Auckland Uni could serve as base for questions
 - Based on Spaceshooter game
-- 
+- Questions "stored" within the asteroids:
+ - Break one to get a question and find the answer
 */
