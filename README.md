@@ -5,9 +5,9 @@ Game description/ basic format:
 - 3D
 - Unity
  - C# (For scripting) 
- - Based on the Spaceshooter game
+ - Based on the Survival Shooter game tutorial
  - Links:
-  - https://unity3d.com/learn/tutorials/projects/space-shooter/introduction?playlist=17147
+  - 
 - Points for answering "questions" correctly
 
 Environment:
