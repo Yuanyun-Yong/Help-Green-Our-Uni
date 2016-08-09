@@ -2,8 +2,9 @@
 # Game detailing environment facts
 /*
 Game description/ basic format:
-- 2D
+- 3D
 - Unity
+ - C# (For scripting) 
  - Based on the Spaceshooter game
  - Links:
   - https://unity3d.com/learn/tutorials/projects/space-shooter/introduction?playlist=17147
