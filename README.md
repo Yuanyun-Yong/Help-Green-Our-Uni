@@ -43,16 +43,3 @@ Storyline:
  - Arrow keys as the control, using arrow keys to indicate which pile to throw the trash in 
  - At the end, give bullet points with statistics for waste management, initiatives by Help Green Our Uni if they're interested in reading
 */
-
-/*
-Another Storyline:
-- Factsheet of Auckland Uni could serve as base for questions
-- Based on Spaceshooter game
-- 2D
-- 
-- Questions "stored" within the asteroids:
- - Break one to get a question and find the answer
- - Answer would "come in" debris of the asteroid
- - Questions are based on facts on Auckland University
- - 
-*/
