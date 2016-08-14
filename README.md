@@ -22,6 +22,7 @@ Gameplay:
  - Break one to get a question and find the answer
  - Answer would "come in" debris of the asteroid
   - i.e. Parts of the rock and there would be numbers on them
+  - Note that the questions are short questions about statistics
  - Questions are based on facts on Auckland University
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
