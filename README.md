@@ -28,6 +28,7 @@ Gameplay:
   - Maybe not
   - Maybe a satellite, over Earth
    - Zoom in over Earth, NZ, Auckland, UoA
+   - Show the poluution and landfills
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
