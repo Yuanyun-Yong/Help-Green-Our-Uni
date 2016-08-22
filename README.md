@@ -27,6 +27,7 @@ Gameplay:
  - Space shooter?
   - Maybe not
   - Maybe a satellite, over Earth
+   - Zoom in over Earth, NZ, Auckland, UoA
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
