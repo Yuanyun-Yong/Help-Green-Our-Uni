@@ -26,6 +26,7 @@ Gameplay:
  - Questions are based on facts on Auckland University
  - Space shooter?
   - Maybe not
+  - Maybe a satellite, over Earth
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
