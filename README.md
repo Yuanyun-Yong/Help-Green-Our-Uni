@@ -32,6 +32,10 @@ Gameplay:
   - Maybe have the player move a landfill vehicle around sorting out the trash?
    - Or not, since having a landfill compaction vehicle would not allow for finer sorting
    - Maybe set it up like a waste audit?
+  
+ Gameplay:
+- Arrows as controls/ WASD?
+- Space to pick up and drop off trash?
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
