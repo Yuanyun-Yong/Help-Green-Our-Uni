@@ -32,6 +32,7 @@ Gameplay:
   - Maybe have the player move a landfill vehicle around sorting out the trash?
    - Or not, since having a landfill compaction vehicle would not allow for finer sorting
    - Maybe set it up like a waste audit?
+    - Have the scene start out at aa landfill, then take the approximate amount of trash needed for a waste audit (i.e. 8 trash bags?) and have them see the comparative difference
   
  Gameplay:
 - Arrows as controls/ WASD?
