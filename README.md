@@ -29,6 +29,7 @@ Gameplay:
   - Maybe a satellite, over Earth
    - Zoom in over Earth, NZ, Auckland, UoA
    - Show the poluution and landfills
+  - Maybe have the player move a landfill vehicle around sorting out the trash?
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
