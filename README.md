@@ -26,22 +26,7 @@ Gameplay:
  - Questions are based on facts on Auckland University
  - Space shooter?
   - Maybe not
-  - Maybe a satellite, over Earth
-   - Zoom in over Earth, NZ, Auckland, UoA
-   - Show the poluution and landfills
-  - Maybe have the player move a landfill vehicle around sorting out the trash?
-   - Or not, since having a landfill compaction vehicle would not allow for finer sorting
-   - Maybe set it up like a waste audit?
-    - Have the scene start out at aa landfill, then take the approximate amount of trash needed for a waste audit (i.e. 8 trash bags?) and have them see the comparative difference
-    - Then move onto another scene where the game actually starts
-     - In this scene, there would be a flatsheet, where the trash bags are located
-     - Recycle bins
-     - Protective Gear (to put on)
-     - Weighing scale
-  
- Gameplay:
-- Arrows as controls/ WASD?
-- Space to pick up and drop off trash?
+  - 
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
@@ -87,4 +72,27 @@ Storyline:
 - Arrow keys as the control, using arrow keys to indicate which pile to throw the trash in
 - At the end, give bullet points with statistics for waste management, initiatives by Help Green Our Uni if they're interested in reading
 - Also put the names of some organisations in University of Auckland or Auckland in general if they are interested
+*/
+
+
+/*
+3D Game showing how a waste audit actually works?
+- Have different environments to highlight different hazards
+
+- Maybe a satellite, over Earth
+  - Zoom in over Earth, NZ, Auckland, UoA
+  - Show the pollution and landfills
+ - Maybe have the player move a landfill vehicle around sorting out the trash?
+  - Or not, since having a landfill compaction vehicle would not allow for finer sorting
+  - Maybe set it up like a waste audit?
+   - Have the scene start out at aa landfill, then take the approximate amount of trash needed for a waste audit (i.e. 8 trash bags?) and have them see the comparative difference
+   - Then move onto another scene where the game actually starts
+    - In this scene, there would be a flatsheet, where the trash bags are located
+    - Recycle bins
+    - Protective Gear (to put on)
+    - Weighing scale
+  
+ Gameplay:
+- Arrows as controls/ WASD?
+- Space to pick up and drop off trash?
 */
