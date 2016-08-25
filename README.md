@@ -30,6 +30,7 @@ Gameplay:
    - Zoom in over Earth, NZ, Auckland, UoA
    - Show the poluution and landfills
   - Maybe have the player move a landfill vehicle around sorting out the trash?
+   - Or not, since having a landfill compaction vehicle would not allow for finer sorting
 
 Aim: To allow players to learn about environmental issues in a fun and engaging way.
  - 
