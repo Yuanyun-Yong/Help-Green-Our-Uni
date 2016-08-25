@@ -34,6 +34,10 @@ Gameplay:
    - Maybe set it up like a waste audit?
     - Have the scene start out at aa landfill, then take the approximate amount of trash needed for a waste audit (i.e. 8 trash bags?) and have them see the comparative difference
     - Then move onto another scene where the game actually starts
+     - In this scene, there would be a flatsheet, where the trash bags are located
+     - Recycle bins
+     - Protective Gear (to put on)
+     - Weighing scale
   
  Gameplay:
 - Arrows as controls/ WASD?
