@@ -42,6 +42,8 @@ Game description/ basic format:
  - https://unity3d.com/learn/tutorials/projects/survival-shooter/environment?playlist=17144
  - Rest of the links on the actual page
 - Points for answering "questions" correctly
+- Player is at a landfill and is being chased by scary trash monsters!
+ - Each take down of the monster will lead to there being questions about waste
 
 Environment:
 University of Auckland (City Campus)
