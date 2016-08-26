@@ -91,6 +91,7 @@ Storyline:
     - Recycle bins
     - Protective Gear (to put on)
     - Weighing scale
+ - Use statistics from Auckland University
   
  Gameplay:
 - Arrows as controls/ WASD?
