@@ -44,6 +44,7 @@ Game description/ basic format:
 - Points for answering "questions" correctly
 - Player is at a landfill and is being chased by scary trash monsters!
  - Each take down of the monster will lead to there being questions about waste
+  - Relevant to the type of trash it is (i.e. a recyclable bin/ paper towel (etc.) would lead to a question about recyclable trash)
 
 Environment:
 University of Auckland (City Campus)
