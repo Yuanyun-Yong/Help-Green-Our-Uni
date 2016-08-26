@@ -46,6 +46,7 @@ Game description/ basic format:
  - Each take down of the monster will lead to there being questions about waste
   - Relevant to the type of trash it is (i.e. a recyclable bin/ paper towel (etc.) would lead to a question about recyclable trash)
  - A right answer will lead to fewer monsters until they can finallly meet the boss monster!
+  - Boss monster = People not knowing about which materials go into the recycling bin, which goes into the landfill bins etc. 
 
 Environment:
 University of Auckland (City Campus)
