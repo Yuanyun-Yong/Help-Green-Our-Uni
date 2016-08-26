@@ -92,7 +92,11 @@ Storyline:
     - Protective Gear (to put on)
     - Weighing scale
  - Use statistics from Auckland University
+  - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
+   - Increase in relative portion of the food waste though
+  - 
   
+
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
