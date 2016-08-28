@@ -94,7 +94,8 @@ Storyline:
    - Then move onto another scene where the game actually starts
     - In this scene, there would be a flatsheet, where the trash bags are located
     - Recycle bins
-    - Protective Gear (to put on)
+    - Protective Gear
+     - Choose what gear to put on (Maybe at the start?)
     - Weighing scale
  - Use statistics from Auckland University
   - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
