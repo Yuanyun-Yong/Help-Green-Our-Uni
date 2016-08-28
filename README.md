@@ -100,9 +100,15 @@ Storyline:
   - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
    - Increase in relative portion of the food waste though
   - 
-  
+ 
+Environments:
+- 
+
+Hazards:
+- Hazards may include chemicals/ dangerous trash
 
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
+- 
 */
