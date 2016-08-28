@@ -107,6 +107,7 @@ Environments:
 
 Hazards:
 - Hazards may include chemicals/ dangerous trash
+- Glass (Broken)
 
  Gameplay:
 - Arrows as controls/ WASD?
