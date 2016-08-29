@@ -104,7 +104,11 @@ Storyline:
   - 
  
 Environments:
-- 
+- Where are we doing the audit? (different hazards to look out for in different environments)
+ - Carpark
+ - Park
+ - Centre
+ - etc.
 
 Hazards:
 - Hazards may include chemicals/ dangerous trash
