@@ -97,6 +97,7 @@ Storyline:
     - Recycle bins
     - Protective Gear
      - Choose what gear to put on (Maybe at the start?)
+     - Include some relevant and some not so relevant equipment
     - Weighing scale
  - Use statistics from Auckland University
   - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
