@@ -98,7 +98,7 @@ Storyline:
     - Protective Gear
      - Choose what gear to put on (Maybe at the start?)
      - Include some relevant and some not so relevant equipment
-      - 
+      - If the user chooses all equipment that is necessary, there will be no added risks (i.e. risk of cuts, poisoning, burns etc. that may arise from choosing the wrong equipment)
     - Weighing scale
  - Use statistics from Auckland University
   - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
