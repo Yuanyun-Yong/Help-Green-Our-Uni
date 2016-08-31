@@ -47,7 +47,7 @@ Game description/ basic format:
   - Relevant to the type of trash it is (i.e. a recyclable bin/ paper towel (etc.) would lead to a question about recyclable trash)
  - A right answer will lead to fewer monsters until they can finallly meet the boss monster!
   - Boss monster = People not knowing about which materials go into the recycling bin, which goes into the landfill bins etc. 
-  - Maybe a large "island" filled to the brim with rubbish
+   - Maybe a large "island" filled to the brim with rubbish
 
 Environment:
 University of Auckland (City Campus)
@@ -98,6 +98,7 @@ Storyline:
     - Protective Gear
      - Choose what gear to put on (Maybe at the start?)
      - Include some relevant and some not so relevant equipment
+      - 
     - Weighing scale
  - Use statistics from Auckland University
   - 2006: 36% of recyclables sent to the landfill - down to 12% in 2015
@@ -105,6 +106,7 @@ Storyline:
   - 
  
 Environments:
+- Player would be told the environment at the start, so they can decide what gear to wear etc.
 - Where are we doing the audit? (different hazards to look out for in different environments)
  - Carpark
  - Park
