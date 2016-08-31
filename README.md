@@ -122,4 +122,7 @@ Hazards:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
 - 
+
+Points System:
+- 
 */
