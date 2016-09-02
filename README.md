@@ -127,5 +127,5 @@ Points System:
 - For each right sort, +1
 - For each wrong sort, -1
 - Have the player go through the procedure (of the waste audit) themselves
- - 
+ - Correct procedure all the way: +10
 */
