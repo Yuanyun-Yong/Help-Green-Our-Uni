@@ -124,5 +124,6 @@ Hazards:
 - Shift to start running
 
 Points System:
-- 
+- For each right sort, +!
+- For each wrong sort, -1
 */
