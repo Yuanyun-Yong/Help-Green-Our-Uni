@@ -129,4 +129,5 @@ Points System:
 - Have the player go through the procedure (of the waste audit) themselves
  - Correct procedure all the way: +10
  - Incorrect procedure: +0
+ - Procedure:
 */
