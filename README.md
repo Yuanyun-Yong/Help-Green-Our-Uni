@@ -121,7 +121,7 @@ Hazards:
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
-- 
+- Shift to start running
 
 Points System:
 - 
