@@ -126,6 +126,8 @@ Hazards:
 Points System:
 - For each right sort, +1
 - For each wrong sort, -1
+- Correct gear selection, +5
+- Incorrect gear selection, +0 (with additional risk of injuries, poisoning etc.)
 - Have the player go through the procedure (of the waste audit) themselves
  - Correct procedure all the way: +10
  - Incorrect procedure: +0
