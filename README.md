@@ -121,7 +121,7 @@ Hazards:
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
-- Shift to start running
+- Shift to start running (-5 if it is used - NEVER run at a waste audit)
 
 Points System:
 - For each right sort, +1
