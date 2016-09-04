@@ -118,6 +118,9 @@ Hazards:
 - Glass (Broken)
 - Chemical waste
 
+Hazard Management:
+- WHen encountering hazards, adopt the proper method to deal with it
+
  Gameplay:
 - Arrows as controls/ WASD?
 - Space to pick up and drop off trash?
